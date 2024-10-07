@@ -1,3 +1,5 @@
 body{
     background: url(corpo\ humano.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
