@@ -22,12 +22,12 @@ body{
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(124, 53, 190);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
 .cartao__conteudo h3{
-    background-color:rgb(62, 46, 77);
+    background-color:rgb(124, 53, 190);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
