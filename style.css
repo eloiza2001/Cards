@@ -44,12 +44,12 @@ body{
 
 }
 .cartao__conteudo__pergunta p {
-    color:  rgb(233, 199, 199);
+    color:  rgb(107, 115, 189);
     font-weight: 500;
    
 }
 .cartao__conteudo__resposta p{
-    color:  rgb(211, 95, 95);
+    color:  rgb(248, 248, 248);
     font-weight: 700;
 }
 .cartao:hover .cartao__conteudo{
